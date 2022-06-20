@@ -1,4 +1,4 @@
 [submodule "uap-core"]
 	path = uap-core
-	url = https://github.com/ua-parser/uap-core
-	branch = master
+	url = https://github.com/tsekityam/uap-core.git
+	branch = tsekityam/patch-1
